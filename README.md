@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=7900F7&center=true&width=435&lines=Hi!%2C+I'm+Bijay+Prasad.;I'm+Interested+in+MERN+Development.;I+Love+Competitive+Programming.;I+Like+to+play+with+Problems+%26+DSA.;I+Love+Open-Source.)](https://github.com/Bijay-Prasad)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=7900F7&center=true&width=435&lines=Hi!%2C+I'm+Bijay+Prasad.;I'm+Interested+in+MERN+Development.;I+Love+Competitive+Programming.;I+Like+to+play+with+Problems+%26+DSA.;I+Love+Open-Source." alt="Typing SVG" />
 </p>
 
 # 💫 About Me:
