@@ -7,7 +7,6 @@
   <img alt="github" width="400" src="https://camo.githubusercontent.com/40ba6d4ae51b1930458f331bd1bb1774081889a9c4f29aee993081bc4906a4e1/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f67697068792e6769663f6369643d6563663035653437716a6738357073626a313969346173306a796a6574746d386f353875356a6e743930646836726772267269643d67697068792e676966">
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=7900F7&center=true&width=435&lines=Hi!%2C+I'm+Bijay+Prasad.;I'm+Interested+in+MERN+Development.;I+Love+Competitive+Programming.;I+Like+to+play+with+Problems+%26+DSA.;I+Love+Open-Source.)](https://github.com/Bijay-Prasad)
 </p>
----
 
 <br>
 # 💫 About Me:
